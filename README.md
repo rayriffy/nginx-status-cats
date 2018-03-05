@@ -2,7 +2,7 @@
 
 ## Setup
 
-Clone this repo to /etc/nginx/snippets.
+Clone this repo to `/etc/nginx/snippets`.
 Insert the following snippet into the server block that is going to use the new error pages:
 
 ```nginx
